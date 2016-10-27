@@ -133,7 +133,7 @@
 	
 	// COLOR BACKGROUND OVERLAY ( Intro / use for "Single Solid Color" Mode )
 	bgOverlayColor = "rgb(0,0,0)";
-	
+	//bgOverlayColor = "rgb(255,255,255)";
 	
 	
 	// OPACITY BACKGROUND OVERLAY ( Intro )

