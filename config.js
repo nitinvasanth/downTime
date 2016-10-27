@@ -65,7 +65,7 @@
 		// "color" = SOLID COLOR BACKGROUND
 		// "kenburns" = KEN BURNS SLIDER BACKGROUND
 		
-		background: "image",
+		background: "youtube",
 		
 		
 		
@@ -85,7 +85,7 @@
 		// "black" = BLACK COLOR SCHEME
 		// "white" = WHITE COLOR SCHEME
 		
-		skin : "black",
+		skin : "white",
 		
 		
 		
@@ -234,7 +234,7 @@
 	
 	
 		// ENTER YOUR YOUTUBE VIDEO ID/URL
-		youtubeBG = "https://www.youtube.com/watch?v=ROqwVUwkTWI";
+		youtubeBG = "https://www.youtube.com/watch?v=BKP_dvCMC1A";
 		
 		
 		
