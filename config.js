@@ -85,7 +85,7 @@
 		// "black" = BLACK COLOR SCHEME
 		// "white" = WHITE COLOR SCHEME
 		
-		skin : "white",
+		skin : "black",
 		
 		
 		
@@ -244,7 +244,7 @@
 		
 		
 		// ENTER STOP POINT IN SECONDS ( 0 = will disable option)
-		youtubeBGend = 170;
+		youtubeBGend = 0;
 	
 	
 	
